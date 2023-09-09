@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akhilmishra365
-- 👀 I’m interested in ["Artificial Intelligence And Machine Learning" , "FULL STACK WEB DEVELOPMENT" , "ANDROID DEVELOPMENT" , "ETHICAL HACKING AND CYBER SECURITY" , "IOS DEVELOPMENT", "BLOCKCHAIN" , "IOT"
-"ETC"]
+- 👀 I’m interested in ["Artificial Intelligence And Machine Learning" , "FULL STACK WEB DEVELOPMENT" ,"ETHICAL HACKING AND CYBER SECURITY"]
 - 🌱 I’m currently learning  ["PYTHON","CYBER SECURITY AND ETHICAL HACKING"] 
 - 💞️ I’m looking to collaborate on tech enthusiast like me 
 - 📫 How to reach me via instagram @akhilmishra365
